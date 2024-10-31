@@ -1,0 +1,15 @@
+
+.row {
+    display: flex;
+}
+
+.cell {
+    width: 25px;
+    height: 25px;
+    border: 1px solid #a1a1a1;
+}
+
+/* [data-row="2"] > [data-cell="4"] {
+    background-color: blue;
+} */
+
