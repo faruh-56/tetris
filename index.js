@@ -98,7 +98,6 @@ function rotateShape(shape) {
     return rotatedShape;
 }
 
-// Инициализация отрисовки начальной позиции
 renderShape(currentPosition);
 
 document.addEventListener('keydown', (e) => {
